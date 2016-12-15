@@ -1,2 +1,2 @@
 # Threads
-A project to practice multithreading.
+A project to practice threading.
